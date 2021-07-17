@@ -1,2 +1,3 @@
-##Movie Service
-example implements microservice using FastAPI
+<b>Movie Service</b>
+
+Example implements microservice using FastAPI
